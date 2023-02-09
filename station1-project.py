@@ -43,4 +43,5 @@ if __name__ == '__main__':
       {choice(parts_of_body) + 's'}. I heard that all doctors {choice(verbs)} {choice(nouns) + "s"} every day for breakfast. The most {choice(adjectives)}
        thing about being in the hospital is the {silly_word} {choice(nouns)} !'''
 
+
 print(story)
