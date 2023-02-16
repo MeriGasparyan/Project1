@@ -1,4 +1,5 @@
 if __name__ == '__main__':
+    
     while True:
         template_number = input(
             "Please input 1 or 2 or 3 (The number of template you want): ")
